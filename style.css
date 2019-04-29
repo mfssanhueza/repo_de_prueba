@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+nav{
+    height: 70px;
+    width: 100vw;
+    background-color: aqua;
+    position: fixed;
+}
