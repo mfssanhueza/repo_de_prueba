@@ -12,6 +12,7 @@ nav{
     position: static;
 }
 .header{
+    text-align: center;
     height: 20vh;
     background-color: aquamarine;
 }
@@ -22,6 +23,16 @@ h4{
     display: inline-block;
 }
 .content{
+    padding: 4vh 4vw;
+    text-align: justify;
     height: 80vh;
-    background-color: aliceblue;
+    background-color: #8A8A8A;
+}
+footer{
+    background-color: #132E34;
+    color: #2C7281;
+    padding: 3vh 3vw;
+}
+input{
+    margin: 3px;
 }
